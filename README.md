@@ -21,7 +21,7 @@ Let's show you how to select and modify code with our API
 ### In
 
 ```javascript
-const a = 1;
+const d = 1;
 const b = 2;
 ```
 
